@@ -35,6 +35,9 @@ Sample transactional dataset including:
 - SQL queries for business insights  
 - Dashboard (Power BI) to visualize performance trends  
 
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard1.png)
 ---
 
 ## 🚀 Notes
